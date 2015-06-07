@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../HayesUniprot/.idea/HayesUniprot.iml" filepath="$PROJECT_DIR$/../HayesUniprot/.idea/HayesUniprot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UniprotFastaDownloader.iml" filepath="$PROJECT_DIR$/.idea/UniprotFastaDownloader.iml" />
     </modules>
   </component>
 </project>
